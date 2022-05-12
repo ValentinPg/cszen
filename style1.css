@@ -1,0 +1,13 @@
+* {
+    background-color: aqua;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.titulo {
+    text-align: center;
+    color: brown;
+    font-size: 3rem;
+    border-width: auto;
+    border-radius: auto;
+    border-style: dotted;
+}
